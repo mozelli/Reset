@@ -10,6 +10,18 @@
 
 :root {
     font-size: 62.5%;
+
+    --clr-white:         #FFFFFF;
+    --clr-light:         #F2F2F2;
+    --clr-gray-300:      #A6A6A6;
+    --clr-gray-600:      #737373;
+    --clr-gray-900:      #404040;
+    --clr-dark:          #0D0D0D;
+    --clr-blue-500:      #22A2F2;
+    --clr-blue-300:      #29B9F2;
+    --clr-yellow:        #F2CB05;
+    --clr-orange-300:    #F28705;
+    --clr-orange-500:    #F25835;
 }
 
 body,
