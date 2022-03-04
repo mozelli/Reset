@@ -8,6 +8,10 @@
     box-sizing: border-box;
 }
 
+:root {
+    font-size: 62.5%;
+}
+
 body,
 h1,
 h2,
@@ -16,6 +20,7 @@ h4,
 p,
 figure,
 picture {
+    font-size: 16px;
     margin: 0;
 }
 
@@ -63,7 +68,7 @@ button {
 }
 
 .container {
-    padding-inline: 2rem;
+    /* padding-inline: 2rem; */
     margin-inline: auto;
     max-width: 80rem;
 }
